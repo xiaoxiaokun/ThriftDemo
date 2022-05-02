@@ -1,2 +1,17 @@
 /match-server/target/
 /match-server/.idea
+match-client/__init__.py
+match-client/.DS_Store
+match-client/match/__init__.py
+match-client/match/__init__.pyc
+match-client/match/Match.pyc
+match-client/match/__pycache__/__init__.cpython-39.pyc
+match-client/match/__pycache__/Match.cpython-39.pyc
+match-client/match/__pycache__/ttypes.cpython-39.pyc
+match-server/.DS_Store
+match-server/src/.DS_Store
+match-server/src/main/.DS_Store
+match-server/src/main/java/.DS_Store
+match-server/src/main/java/match/.DS_Store
+match-server/src/main/resources/.DS_Store
+.DS_Store
